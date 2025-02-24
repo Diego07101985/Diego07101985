@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Diego Silva de Salles
 
-## **Machine Learning Engineering | Generative AI | MLOps | Cloud Computing**
+## **Machine Learning Engineer | Generative AI | MLOps | Cloud Computing**
 
 I am a **Machine Learning Engineer** with over five years of experience designing and implementing **scalable data infrastructure** that empowers data scientists to deploy machine learning models efficiently. My expertise lies in **building robust ML pipelines** and **optimizing model deployment** on platforms such as **AWS, Databricks, and Vertex AI**.
 
